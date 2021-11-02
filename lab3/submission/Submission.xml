@@ -1,0 +1,813 @@
+<?xml version="1.0"?>
+<root ptr="0x5650eea9d870" id="21" symbol="11SwRootFrame" lower="22">
+ <sfxViewShells>
+  <SwView>
+   <SfxViewShell ptr="0x5650ea08b400" id="1"/>
+   <SwCursorShell>
+    <SwViewShell/>
+    <m_pCurrentCursor>
+     <SwPaM>
+      <point>
+       <SwPosition nNode="104" nContent="1"/>
+      </point>
+     </SwPaM>
+    </m_pCurrentCursor>
+   </SwCursorShell>
+  </SwView>
+ </sfxViewShells>
+ <infos>
+  <bounds left="284" top="284" width="18669" height="85326" bottom="85609" right="18952" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="true" mbFramePrintAreaValid="true"/>
+  <prtBounds left="0" top="0" width="18669" height="85326" bottom="85325" right="18668"/>
+ </infos>
+ <page ptr="0x5650eed19270" id="22" symbol="11SwPageFrame" next="34" upper="21" lower="23">
+  <page_status ValidFlyLayout="true" ValidFlyContent="true" ValidFlyInCnt="true" ValidLayout="true" ValidContent="true"/>
+  <page_info phyNum="1" virtNum="1" pageDesc="Default Page Style"/>
+  <sorted_objs>
+   <fly ptr="0x5650eeb15b70"/>
+  </sorted_objs>
+  <infos>
+   <bounds left="7047" top="284" width="11906" height="16838" bottom="17121" right="18952" mbFixSize="true" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="true" mbFramePrintAreaValid="true"/>
+   <prtBounds left="1134" top="1134" width="9638" height="14570" bottom="15703" right="10771"/>
+  </infos>
+  <body ptr="0x5650eedc7ff0" id="23" symbol="11SwBodyFrame" upper="22" lower="24">
+   <infos>
+    <bounds left="8181" top="1418" width="9638" height="14570" bottom="15987" right="17818" mbFixSize="true" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="true" mbFramePrintAreaValid="true"/>
+    <prtBounds left="0" top="0" width="9638" height="14570" bottom="14569" right="9637"/>
+   </infos>
+   <txt ptr="0x5650eecfb5c0" id="24" symbol="11SwTextFrame" next="25" upper="23" txtNodeIndex="15" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="1418" width="9638" height="1528" bottom="2945" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="true" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="240" width="9638" height="1288" bottom="1527" right="9637"/>
+    </infos>
+Assignment 2:LCD and Reaction Timer V1    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="479"/>
+    <Text nLength="29" nType="PortionType::Text" nHeight="644" nWidth="8681" Portion="Assignment 2:LCD and Reaction"/>
+    <Text nLength="1" nType="PortionType::Hole" Portion=" "/>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="479"/>
+    <LineBreak nWidth="9639" Line="Assignment 2:LCD and Reaction "/>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="3641"/>
+    <Text nLength="8" nType="PortionType::Text" nHeight="644" nWidth="2356" Portion="Timer V1"/>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="3642"/>
+    <LineBreak nWidth="9639" Line="Timer V1"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5650ea355070" id="25" symbol="11SwTextFrame" next="26" prev="24" upper="23" txtNodeIndex="16" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="2946" width="9638" height="779" bottom="3724" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="true" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="360" width="9638" height="419" bottom="778" right="9637"/>
+    </infos>
+Image    <Text nLength="5" nType="PortionType::Para" nHeight="419" nWidth="1052" Portion="Image"/>
+    <LineBreak nWidth="1052" Line="Image"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5650eea396c0" id="26" symbol="11SwTextFrame" prev="25" upper="23" txtNodeIndex="17" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="3725" width="9638" height="7665" bottom="11389" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="true" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="120" width="9638" height="7545" bottom="7664" right="9637"/>
+    </infos>
+    <anchored>
+     <fly ptr="0x5650eeb15b70" id="27" symbol="19SwFlyAtContentFrame" lower="28">
+      <infos>
+       <bounds left="8181" top="3845" width="9638" height="7228" bottom="11072" right="17818" mbFixSize="true" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="true" mbFramePrintAreaValid="true"/>
+       <prtBounds left="0" top="0" width="9638" height="7228" bottom="7227" right="9637"/>
+      </infos>
+      <notxt ptr="0x5650efbcb8d0" id="28" symbol="13SwNoTextFrame" upper="27">
+       <infos>
+        <bounds left="8181" top="3845" width="9638" height="7228" bottom="11072" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="true" mbFramePrintAreaValid="true"/>
+        <prtBounds left="0" top="0" width="9638" height="7228" bottom="7227" right="9637"/>
+       </infos>
+      </notxt>
+     </fly>
+    </anchored>
+     <Special nLength="0" nType="PortionType::Fly" rText="" nHeight="7228" nWidth="9638"/>
+    <LineBreak nWidth="9638"/>
+    <Text nLength="1" nType="PortionType::Lay" nHeight="276" nWidth="60" Portion=" "/>
+    <LineBreak nWidth="60" Line=" "/>
+    <Finish/>
+   </txt>
+  </body>
+ </page>
+ <page ptr="0x5650ef931c00" id="34" symbol="11SwPageFrame" next="121" prev="22" upper="21" lower="35">
+  <page_status ValidFlyLayout="true" ValidFlyContent="true" ValidFlyInCnt="true" ValidLayout="true" ValidContent="true"/>
+  <page_info phyNum="2" virtNum="2" pageDesc="Default Page Style"/>
+  <sorted_objs>
+   <fly ptr="0x5650efbfa570"/>
+  </sorted_objs>
+  <infos>
+   <bounds left="7047" top="17406" width="11906" height="16838" bottom="34243" right="18952" mbFixSize="true" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="true" mbFramePrintAreaValid="true"/>
+   <prtBounds left="1134" top="1134" width="9638" height="14570" bottom="15703" right="10771"/>
+  </infos>
+  <body ptr="0x5650f0509110" id="35" symbol="11SwBodyFrame" upper="34" lower="29">
+   <infos>
+    <bounds left="8181" top="18540" width="9638" height="14570" bottom="33109" right="17818" mbFixSize="true" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="true" mbFramePrintAreaValid="true"/>
+    <prtBounds left="0" top="0" width="9638" height="14570" bottom="14569" right="9637"/>
+   </infos>
+   <txt ptr="0x5650efbbfd60" id="29" symbol="11SwTextFrame" next="30" upper="35" txtNodeIndex="18" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="18540" width="9638" height="419" bottom="18958" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="true" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="0" width="9638" height="419" bottom="418" right="9637"/>
+    </infos>
+Circuit Diagram    <Text nLength="15" nType="PortionType::Para" nHeight="419" nWidth="2711" Portion="Circuit Diagram"/>
+    <LineBreak nWidth="2711" Line="Circuit Diagram"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5650f0310850" id="30" symbol="11SwTextFrame" next="36" prev="29" upper="35" txtNodeIndex="19" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="18959" width="9638" height="6399" bottom="25357" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="true" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="120" width="9638" height="6279" bottom="6398" right="9637"/>
+    </infos>
+    <anchored>
+     <fly ptr="0x5650efbfa570" id="31" symbol="19SwFlyAtContentFrame" lower="32">
+      <infos>
+       <bounds left="8181" top="19079" width="9638" height="5962" bottom="25040" right="17818" mbFixSize="true" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="true" mbFramePrintAreaValid="true"/>
+       <prtBounds left="0" top="0" width="9638" height="5962" bottom="5961" right="9637"/>
+      </infos>
+      <notxt ptr="0x5650f0454580" id="32" symbol="13SwNoTextFrame" upper="31">
+       <infos>
+        <bounds left="8181" top="19079" width="9638" height="5962" bottom="25040" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="true" mbFramePrintAreaValid="true"/>
+        <prtBounds left="0" top="0" width="9638" height="5962" bottom="5961" right="9637"/>
+       </infos>
+      </notxt>
+     </fly>
+    </anchored>
+     <Special nLength="0" nType="PortionType::Fly" rText="" nHeight="5962" nWidth="9638"/>
+    <LineBreak nWidth="9638"/>
+    <Text nLength="1" nType="PortionType::Lay" nHeight="276" nWidth="60" Portion=" "/>
+    <LineBreak nWidth="60" Line=" "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5650f0419860" id="36" symbol="11SwTextFrame" next="37" prev="30" upper="35" txtNodeIndex="20" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="25358" width="9638" height="840" bottom="26197" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="true" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="421" width="9638" height="419" bottom="839" right="9637"/>
+    </infos>
+Code    <Text nLength="4" nType="PortionType::Para" nHeight="419" nWidth="910" Portion="Code"/>
+    <LineBreak nWidth="910" Line="Code"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5650f03f3a60" id="37" symbol="11SwTextFrame" next="38" prev="36" upper="35" txtNodeIndex="21" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="26198" width="9638" height="396" bottom="26593" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="true" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="120" width="9638" height="276" bottom="395" right="9637"/>
+    </infos>
+/*    <Text nLength="2" nType="PortionType::Para" nHeight="276" nWidth="187" Portion="/*"/>
+    <LineBreak nWidth="187" Line="/*"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5650f03da5d0" id="38" symbol="11SwTextFrame" next="40" prev="37" upper="35" txtNodeIndex="22" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="26594" width="9638" height="457" bottom="27050" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="true" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+  LiquidCrystal Library - Hello World    <Text nLength="37" nType="PortionType::Para" nHeight="276" nWidth="3616" Portion="  LiquidCrystal Library - Hello World"/>
+    <LineBreak nWidth="3616" Line="  LiquidCrystal Library - Hello World"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5650ef729aa0" id="40" symbol="11SwTextFrame" next="39" prev="38" upper="35" txtNodeIndex="23" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="27051" width="9638" height="457" bottom="27507" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="true" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5650f03ef4b0" id="39" symbol="11SwTextFrame" next="41" prev="40" upper="35" txtNodeIndex="24" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="27508" width="9638" height="457" bottom="27964" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="true" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+  Demonstrates the use a 16x2 LCD display.  The LiquidCrystal    <Text nLength="61" nType="PortionType::Para" nHeight="276" nWidth="6099" Portion="  Demonstrates the use a 16x2 LCD display.  The LiquidCrystal"/>
+    <LineBreak nWidth="6099" Line="  Demonstrates the use a 16x2 LCD display.  The LiquidCrystal"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5650f058c450" id="41" symbol="11SwTextFrame" next="42" prev="39" upper="35" txtNodeIndex="25" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="27965" width="9638" height="457" bottom="28421" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="true" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+  library works with all LCD displays that are compatible with the    <Text nLength="66" nType="PortionType::Para" nHeight="276" nWidth="6318" Portion="  library works with all LCD displays that are compatible with the"/>
+    <LineBreak nWidth="6318" Line="  library works with all LCD displays that are compatible with the"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5650ef6dd250" id="42" symbol="11SwTextFrame" next="43" prev="41" upper="35" txtNodeIndex="26" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="28422" width="9638" height="457" bottom="28878" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="true" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+  Hitachi HD44780 driver. There are many of them out there, and you    <Text nLength="67" nType="PortionType::Para" nHeight="276" nWidth="6667" Portion="  Hitachi HD44780 driver. There are many of them out there, and you"/>
+    <LineBreak nWidth="6667" Line="  Hitachi HD44780 driver. There are many of them out there, and you"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5650f03fdcb0" id="43" symbol="11SwTextFrame" next="45" prev="42" upper="35" txtNodeIndex="27" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="28879" width="9638" height="457" bottom="29335" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="true" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+  can usually tell them by the 16-pin interface.    <Text nLength="48" nType="PortionType::Para" nHeight="276" nWidth="4412" Portion="  can usually tell them by the 16-pin interface."/>
+    <LineBreak nWidth="4412" Line="  can usually tell them by the 16-pin interface."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5650ef797d30" id="45" symbol="11SwTextFrame" next="44" prev="43" upper="35" txtNodeIndex="28" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="29336" width="9638" height="457" bottom="29792" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="true" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5650f043c9f0" id="44" symbol="11SwTextFrame" next="46" prev="45" upper="35" txtNodeIndex="29" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="29793" width="9638" height="457" bottom="30249" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="true" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+  This sketch prints &quot;Hello World!&quot; to the LCD    <Text nLength="46" nType="PortionType::Para" nHeight="276" nWidth="4481" Portion="  This sketch prints &quot;Hello World!&quot; to the LCD"/>
+    <LineBreak nWidth="4481" Line="  This sketch prints &quot;Hello World!&quot; to the LCD"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5650eea92910" id="46" symbol="11SwTextFrame" next="48" prev="44" upper="35" txtNodeIndex="30" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="30250" width="9638" height="457" bottom="30706" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="true" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+  and shows the time.    <Text nLength="21" nType="PortionType::Para" nHeight="276" nWidth="2026" Portion="  and shows the time."/>
+    <LineBreak nWidth="2026" Line="  and shows the time."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5650f051d830" id="48" symbol="11SwTextFrame" next="47" prev="46" upper="35" txtNodeIndex="31" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="30707" width="9638" height="457" bottom="31163" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="true" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5650eef09390" id="47" symbol="11SwTextFrame" next="49" prev="48" upper="35" txtNodeIndex="32" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="31164" width="9638" height="457" bottom="31620" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="true" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+  The circuit:    <Text nLength="14" nType="PortionType::Para" nHeight="276" nWidth="1229" Portion="  The circuit:"/>
+    <LineBreak nWidth="1229" Line="  The circuit:"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5650f0455600" id="49" symbol="11SwTextFrame" next="50" prev="47" upper="35" txtNodeIndex="33" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="31621" width="9638" height="457" bottom="32077" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="true" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+   LCD RS pin to digital pin 12    <Text nLength="31" nType="PortionType::Para" nHeight="276" nWidth="2967" Portion="   LCD RS pin to digital pin 12"/>
+    <LineBreak nWidth="2967" Line="   LCD RS pin to digital pin 12"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5650f051b4b0" id="50" symbol="11SwTextFrame" next="51" prev="49" upper="35" txtNodeIndex="34" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="32078" width="9638" height="457" bottom="32534" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="true" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+   LCD Enable pin to digital pin 11    <Text nLength="35" nType="PortionType::Para" nHeight="276" nWidth="3331" Portion="   LCD Enable pin to digital pin 11"/>
+    <LineBreak nWidth="3331" Line="   LCD Enable pin to digital pin 11"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5650f046c800" id="51" symbol="11SwTextFrame" prev="50" upper="35" txtNodeIndex="35" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="32535" width="9638" height="457" bottom="32991" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="true" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+   LCD D4 pin to digital pin 5    <Text nLength="30" nType="PortionType::Para" nHeight="276" nWidth="2847" Portion="   LCD D4 pin to digital pin 5"/>
+    <LineBreak nWidth="2847" Line="   LCD D4 pin to digital pin 5"/>
+    <Finish/>
+   </txt>
+  </body>
+ </page>
+ <page ptr="0x5650ef93cc00" id="121" symbol="11SwPageFrame" next="123" prev="34" upper="21" lower="122">
+  <page_status ValidFlyLayout="false" ValidFlyContent="false" ValidFlyInCnt="false" ValidLayout="false" ValidContent="false"/>
+  <page_info phyNum="3" virtNum="3" pageDesc="Default Page Style"/>
+  <infos>
+   <bounds left="7047" top="34528" width="11906" height="16838" bottom="51365" right="18952" mbFixSize="true" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="true" mbFramePrintAreaValid="true"/>
+   <prtBounds left="1134" top="1134" width="9638" height="14570" bottom="15703" right="10771"/>
+  </infos>
+  <body ptr="0x5650ea8b7d50" id="122" symbol="11SwBodyFrame" upper="121" lower="52">
+   <infos>
+    <bounds left="8181" top="35662" width="9638" height="14570" bottom="50231" right="17818" mbFixSize="true" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="true" mbFramePrintAreaValid="true"/>
+    <prtBounds left="0" top="0" width="9638" height="14570" bottom="14569" right="9637"/>
+   </infos>
+   <txt ptr="0x5650eeb33eb0" id="52" symbol="11SwTextFrame" next="53" upper="122" txtNodeIndex="36" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="35662" width="9638" height="276" bottom="35937" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="true" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="0" width="9638" height="276" bottom="275" right="9637"/>
+    </infos>
+   LCD D5 pin to digital pin 4    <Text nLength="30" nType="PortionType::Para" nHeight="276" nWidth="2847" Portion="   LCD D5 pin to digital pin 4"/>
+    <LineBreak nWidth="2847" Line="   LCD D5 pin to digital pin 4"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5650f04dd800" id="53" symbol="11SwTextFrame" next="54" prev="52" upper="122" txtNodeIndex="37" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="35938" width="9638" height="457" bottom="36394" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="false" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+   LCD D6 pin to digital pin 3    <Finish/>
+   </txt>
+   <txt ptr="0x5650f0402c00" id="54" symbol="11SwTextFrame" next="55" prev="53" upper="122" txtNodeIndex="38" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="36395" width="9638" height="457" bottom="36851" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="false" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+   LCD D7 pin to digital pin 2    <Finish/>
+   </txt>
+   <txt ptr="0x5650f042fab0" id="55" symbol="11SwTextFrame" next="56" prev="54" upper="122" txtNodeIndex="39" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="36852" width="9638" height="457" bottom="37308" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="false" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+   LCD R/W pin to ground    <Finish/>
+   </txt>
+   <txt ptr="0x5650f04b2000" id="56" symbol="11SwTextFrame" next="57" prev="55" upper="122" txtNodeIndex="40" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="37309" width="9638" height="457" bottom="37765" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="false" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+   LCD VSS pin to ground    <Finish/>
+   </txt>
+   <txt ptr="0x5650eea964c0" id="57" symbol="11SwTextFrame" next="58" prev="56" upper="122" txtNodeIndex="41" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="37766" width="9638" height="457" bottom="38222" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="false" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+   LCD VCC pin to 5V    <Finish/>
+   </txt>
+   <txt ptr="0x5650ef73a2a0" id="58" symbol="11SwTextFrame" next="59" prev="57" upper="122" txtNodeIndex="42" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="38223" width="9638" height="457" bottom="38679" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="false" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+   10K resistor:    <Finish/>
+   </txt>
+   <txt ptr="0x5650efcbd970" id="59" symbol="11SwTextFrame" next="60" prev="58" upper="122" txtNodeIndex="43" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="38680" width="9638" height="457" bottom="39136" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="false" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+   ends to +5V and ground    <Finish/>
+   </txt>
+   <txt ptr="0x5650f03f8e20" id="60" symbol="11SwTextFrame" next="62" prev="59" upper="122" txtNodeIndex="44" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="39137" width="9638" height="457" bottom="39593" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="false" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+   wiper to LCD VO pin (pin 3)    <Finish/>
+   </txt>
+   <txt ptr="0x5650eeb1ea20" id="62" symbol="11SwTextFrame" next="61" prev="60" upper="122" txtNodeIndex="45" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="39594" width="9638" height="457" bottom="40050" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="false" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5650ef8f7d30" id="61" symbol="11SwTextFrame" next="63" prev="62" upper="122" txtNodeIndex="46" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="40051" width="9638" height="457" bottom="40507" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="false" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+  Library originally added 18 Apr 2008    <Finish/>
+   </txt>
+   <txt ptr="0x5650efbc33b0" id="63" symbol="11SwTextFrame" next="64" prev="61" upper="122" txtNodeIndex="47" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="40508" width="9638" height="457" bottom="40964" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="false" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+  by David A. Mellis    <Finish/>
+   </txt>
+   <txt ptr="0x5650ef903ed0" id="64" symbol="11SwTextFrame" next="65" prev="63" upper="122" txtNodeIndex="48" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="40965" width="9638" height="457" bottom="41421" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="false" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+  library modified 5 Jul 2009    <Finish/>
+   </txt>
+   <txt ptr="0x5650eeb2b980" id="65" symbol="11SwTextFrame" next="66" prev="64" upper="122" txtNodeIndex="49" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="41422" width="9638" height="457" bottom="41878" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="false" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+  by Limor Fried (http://www.ladyada.net)    <Finish/>
+   </txt>
+   <txt ptr="0x5650ef718cd0" id="66" symbol="11SwTextFrame" next="67" prev="65" upper="122" txtNodeIndex="50" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="41879" width="9638" height="457" bottom="42335" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="false" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+  example added 9 Jul 2009    <Finish/>
+   </txt>
+   <txt ptr="0x5650efd05410" id="67" symbol="11SwTextFrame" next="68" prev="66" upper="122" txtNodeIndex="51" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="42336" width="9638" height="457" bottom="42792" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="false" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+  by Tom Igoe    <Finish/>
+   </txt>
+   <txt ptr="0x5650ea8ca400" id="68" symbol="11SwTextFrame" next="69" prev="67" upper="122" txtNodeIndex="52" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="42793" width="9638" height="457" bottom="43249" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="false" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+  modified 22 Nov 2010    <Finish/>
+   </txt>
+   <txt ptr="0x5650f04afde0" id="69" symbol="11SwTextFrame" next="70" prev="68" upper="122" txtNodeIndex="53" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="43250" width="9638" height="457" bottom="43706" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="false" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+  by Tom Igoe    <Finish/>
+   </txt>
+   <txt ptr="0x5650f04138e0" id="70" symbol="11SwTextFrame" next="71" prev="69" upper="122" txtNodeIndex="54" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="43707" width="9638" height="457" bottom="44163" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="false" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+  modified 7 Nov 2016    <Finish/>
+   </txt>
+   <txt ptr="0x5650f00dca10" id="71" symbol="11SwTextFrame" next="73" prev="70" upper="122" txtNodeIndex="55" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="44164" width="9638" height="457" bottom="44620" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="false" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+  by Arturo Guadalupi    <Finish/>
+   </txt>
+   <txt ptr="0x5650efcbb250" id="73" symbol="11SwTextFrame" next="72" prev="71" upper="122" txtNodeIndex="56" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="44621" width="9638" height="457" bottom="45077" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="false" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5650f04388e0" id="72" symbol="11SwTextFrame" next="75" prev="73" upper="122" txtNodeIndex="57" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="45078" width="9638" height="457" bottom="45534" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="false" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+  This example code is in the public domain.    <Finish/>
+   </txt>
+   <txt ptr="0x5650f054c000" id="75" symbol="11SwTextFrame" next="74" prev="72" upper="122" txtNodeIndex="58" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="45535" width="9638" height="457" bottom="45991" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="false" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5650f053d600" id="74" symbol="11SwTextFrame" next="77" prev="75" upper="122" txtNodeIndex="59" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="45992" width="9638" height="457" bottom="46448" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="false" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+  http://www.arduino.cc/en/Tutorial/LiquidCrystalHelloWorld    <Finish/>
+   </txt>
+   <txt ptr="0x5650efbcea00" id="77" symbol="11SwTextFrame" next="76" prev="74" upper="122" txtNodeIndex="60" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="46449" width="9638" height="457" bottom="46905" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="false" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5650f087cc00" id="76" symbol="11SwTextFrame" next="79" prev="77" upper="122" txtNodeIndex="61" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="46906" width="9638" height="457" bottom="47362" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="false" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+*/    <Finish/>
+   </txt>
+   <txt ptr="0x5650eee54260" id="79" symbol="11SwTextFrame" next="78" prev="76" upper="122" txtNodeIndex="62" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="47363" width="9638" height="457" bottom="47819" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="false" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5650f04756a0" id="78" symbol="11SwTextFrame" next="80" prev="79" upper="122" txtNodeIndex="63" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="47820" width="9638" height="457" bottom="48276" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="false" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+// include the library code:    <Finish/>
+   </txt>
+   <txt ptr="0x5650f0506aa0" id="80" symbol="11SwTextFrame" next="81" prev="78" upper="122" txtNodeIndex="64" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="48277" width="9638" height="457" bottom="48733" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="false" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+#include &lt;LiquidCrystal.h&gt;    <Finish/>
+   </txt>
+   <txt ptr="0x5650f0434c40" id="81" symbol="11SwTextFrame" next="82" prev="80" upper="122" txtNodeIndex="65" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="48734" width="9638" height="457" bottom="49190" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="false" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+#define BUZZER 6    <Finish/>
+   </txt>
+   <txt ptr="0x5650f042f3f0" id="82" symbol="11SwTextFrame" next="84" prev="81" upper="122" txtNodeIndex="66" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="49191" width="9638" height="457" bottom="49647" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="false" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+#define BUTTON 7    <Finish/>
+   </txt>
+   <txt ptr="0x5650f0481800" id="84" symbol="11SwTextFrame" prev="82" upper="122" txtNodeIndex="67" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="49648" width="9638" height="457" bottom="50104" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="false" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+    <Finish/>
+   </txt>
+  </body>
+ </page>
+ <page ptr="0x5650f04fd9a0" id="123" symbol="11SwPageFrame" next="125" prev="121" upper="21" lower="124">
+  <page_status ValidFlyLayout="false" ValidFlyContent="false" ValidFlyInCnt="false" ValidLayout="false" ValidContent="false"/>
+  <page_info phyNum="4" virtNum="4" pageDesc="Default Page Style"/>
+  <infos>
+   <bounds left="7047" top="51650" width="11906" height="16838" bottom="68487" right="18952" mbFixSize="true" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="true" mbFramePrintAreaValid="true"/>
+   <prtBounds left="1134" top="1134" width="9638" height="14570" bottom="15703" right="10771"/>
+  </infos>
+  <body ptr="0x5650ea8b7e50" id="124" symbol="11SwBodyFrame" upper="123" lower="83">
+   <infos>
+    <bounds left="8181" top="52784" width="9638" height="14570" bottom="67353" right="17818" mbFixSize="true" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="true" mbFramePrintAreaValid="true"/>
+    <prtBounds left="0" top="0" width="9638" height="14570" bottom="14569" right="9637"/>
+   </infos>
+   <txt ptr="0x5650f0525d40" id="83" symbol="11SwTextFrame" next="85" upper="124" txtNodeIndex="68" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="52784" width="9638" height="276" bottom="53059" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="false" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="0" width="9638" height="276" bottom="275" right="9637"/>
+    </infos>
+// initialize the library by associating any needed LCD interface pin    <Finish/>
+   </txt>
+   <txt ptr="0x5650ef7611b0" id="85" symbol="11SwTextFrame" next="86" prev="83" upper="124" txtNodeIndex="69" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="53060" width="9638" height="457" bottom="53516" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="false" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+// with the arduino pin number it is connected to    <Finish/>
+   </txt>
+   <txt ptr="0x5650f0581ea0" id="86" symbol="11SwTextFrame" next="87" prev="85" upper="124" txtNodeIndex="70" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="53517" width="9638" height="457" bottom="53973" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="false" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+const int rs = 12, en = 11, d4 = 5, d5 = 4, d6 = 3, d7 = 2;    <Finish/>
+   </txt>
+   <txt ptr="0x5650ef76f400" id="87" symbol="11SwTextFrame" next="88" prev="86" upper="124" txtNodeIndex="71" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="53974" width="9638" height="457" bottom="54430" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="false" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+LiquidCrystal lcd(rs, en, d4, d5, d6, d7);    <Finish/>
+   </txt>
+   <txt ptr="0x5650ef6ee600" id="88" symbol="11SwTextFrame" next="89" prev="87" upper="124" txtNodeIndex="72" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="54431" width="9638" height="457" bottom="54887" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="false" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+const int time_before_buzz = random(10000);    <Finish/>
+   </txt>
+   <txt ptr="0x5650ef72ec90" id="89" symbol="11SwTextFrame" next="90" prev="88" upper="124" txtNodeIndex="73" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="54888" width="9638" height="457" bottom="55344" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="false" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+bool buzzed = false;    <Finish/>
+   </txt>
+   <txt ptr="0x5650f043e2b0" id="90" symbol="11SwTextFrame" next="91" prev="89" upper="124" txtNodeIndex="74" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="55345" width="9638" height="457" bottom="55801" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="false" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+bool pressed = false;    <Finish/>
+   </txt>
+   <txt ptr="0x5650ef76e500" id="91" symbol="11SwTextFrame" next="92" prev="90" upper="124" txtNodeIndex="75" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="55802" width="9638" height="457" bottom="56258" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="false" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+void setup() {    <Finish/>
+   </txt>
+   <txt ptr="0x5650f08712a0" id="92" symbol="11SwTextFrame" next="93" prev="91" upper="124" txtNodeIndex="76" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="56259" width="9638" height="457" bottom="56715" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="false" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+  // set up the LCD's number of columns and rows:    <Finish/>
+   </txt>
+   <txt ptr="0x5650efbe6200" id="93" symbol="11SwTextFrame" next="94" prev="92" upper="124" txtNodeIndex="77" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="56716" width="9638" height="457" bottom="57172" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="false" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+  lcd.begin(16, 2);    <Finish/>
+   </txt>
+   <txt ptr="0x5650f01c2360" id="94" symbol="11SwTextFrame" next="95" prev="93" upper="124" txtNodeIndex="78" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="57173" width="9638" height="457" bottom="57629" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="false" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+  // Print a message to the LCD.    <Finish/>
+   </txt>
+   <txt ptr="0x5650f04d1aa0" id="95" symbol="11SwTextFrame" next="96" prev="94" upper="124" txtNodeIndex="79" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="57630" width="9638" height="457" bottom="58086" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="false" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+  lcd.print(&quot;Reaction Time:&quot;);    <Finish/>
+   </txt>
+   <txt ptr="0x5650f05328a0" id="96" symbol="11SwTextFrame" next="97" prev="95" upper="124" txtNodeIndex="80" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="58087" width="9638" height="457" bottom="58543" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="false" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+  pinMode(BUZZER, OUTPUT);    <Finish/>
+   </txt>
+   <txt ptr="0x5650f05567d0" id="97" symbol="11SwTextFrame" next="98" prev="96" upper="124" txtNodeIndex="81" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="58544" width="9638" height="457" bottom="59000" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="false" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+  pinMode(BUTTON, INPUT);    <Finish/>
+   </txt>
+   <txt ptr="0x5650f0422f00" id="98" symbol="11SwTextFrame" next="100" prev="97" upper="124" txtNodeIndex="82" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="59001" width="9638" height="457" bottom="59457" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="false" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+  Serial.begin(9600);    <Finish/>
+   </txt>
+   <txt ptr="0x5650f056bf30" id="100" symbol="11SwTextFrame" next="101" prev="98" upper="124" txtNodeIndex="83" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="59458" width="9638" height="457" bottom="59914" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="false" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5650ef8fda90" id="101" symbol="11SwTextFrame" next="99" prev="100" upper="124" txtNodeIndex="84" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="59915" width="9638" height="457" bottom="60371" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="false" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5650efc33e00" id="99" symbol="11SwTextFrame" next="103" prev="101" upper="124" txtNodeIndex="85" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="60372" width="9638" height="457" bottom="60828" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="false" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+}    <Finish/>
+   </txt>
+   <txt ptr="0x5650f058b6e0" id="103" symbol="11SwTextFrame" next="102" prev="99" upper="124" txtNodeIndex="86" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="60829" width="9638" height="457" bottom="61285" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="false" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5650f04fc510" id="102" symbol="11SwTextFrame" next="104" prev="103" upper="124" txtNodeIndex="87" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="61286" width="9638" height="457" bottom="61742" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="false" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+void loop() {    <Finish/>
+   </txt>
+   <txt ptr="0x5650f04f3200" id="104" symbol="11SwTextFrame" next="105" prev="102" upper="124" txtNodeIndex="88" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="61743" width="9638" height="457" bottom="62199" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="false" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+  static int buzz_time;    <Finish/>
+   </txt>
+   <txt ptr="0x5650f0441100" id="105" symbol="11SwTextFrame" next="106" prev="104" upper="124" txtNodeIndex="89" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="62200" width="9638" height="457" bottom="62656" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="false" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+  lcd.setCursor(0,1);    <Finish/>
+   </txt>
+   <txt ptr="0x5650efbfda90" id="106" symbol="11SwTextFrame" next="107" prev="105" upper="124" txtNodeIndex="90" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="62657" width="9638" height="457" bottom="63113" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="false" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+  // if the random amount of time has passed and this is our first time round the loop    <Finish/>
+   </txt>
+   <txt ptr="0x5650efceb690" id="107" symbol="11SwTextFrame" next="108" prev="106" upper="124" txtNodeIndex="91" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="63114" width="9638" height="457" bottom="63570" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="false" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+  if (millis() &gt;= time_before_buzz &amp;&amp; !buzzed) {    <Finish/>
+   </txt>
+   <txt ptr="0x5650ef74d000" id="108" symbol="11SwTextFrame" next="109" prev="107" upper="124" txtNodeIndex="92" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="63571" width="9638" height="457" bottom="64027" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="false" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+    // set the buzzer pin to high    <Finish/>
+   </txt>
+   <txt ptr="0x5650f04fe110" id="109" symbol="11SwTextFrame" next="110" prev="108" upper="124" txtNodeIndex="93" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="64028" width="9638" height="457" bottom="64484" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="false" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+    PORTD |= 0b01000000;    <Finish/>
+   </txt>
+   <txt ptr="0x5650ef792b00" id="110" symbol="11SwTextFrame" next="111" prev="109" upper="124" txtNodeIndex="94" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="64485" width="9638" height="457" bottom="64941" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="false" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+    buzzed = true;    <Finish/>
+   </txt>
+   <txt ptr="0x5650ef71f5a0" id="111" symbol="11SwTextFrame" next="112" prev="110" upper="124" txtNodeIndex="95" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="64942" width="9638" height="457" bottom="65398" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="false" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+    buzz_time = millis();    <Finish/>
+   </txt>
+   <txt ptr="0x5650f0333960" id="112" symbol="11SwTextFrame" next="113" prev="111" upper="124" txtNodeIndex="96" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="65399" width="9638" height="457" bottom="65855" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="false" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+  }    <Finish/>
+   </txt>
+   <txt ptr="0x5650eeb36770" id="113" symbol="11SwTextFrame" next="114" prev="112" upper="124" txtNodeIndex="97" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="65856" width="9638" height="457" bottom="66312" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="false" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+  if (PIND&amp;0b10000000 &amp;&amp; !pressed  &amp;&amp; buzzed){    <Finish/>
+   </txt>
+   <txt ptr="0x5650f058d690" id="114" symbol="11SwTextFrame" next="115" prev="113" upper="124" txtNodeIndex="98" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="66313" width="9638" height="457" bottom="66769" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="false" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+    Serial.println(&quot;button pressed&quot;);    <Finish/>
+   </txt>
+   <txt ptr="0x5650f03fe420" id="115" symbol="11SwTextFrame" prev="114" upper="124" txtNodeIndex="99" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="66770" width="9638" height="457" bottom="67226" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="false" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+    PORTD &amp;= 0b10111111;    <Finish/>
+   </txt>
+  </body>
+ </page>
+ <page ptr="0x5650ef93d800" id="125" symbol="11SwPageFrame" prev="123" upper="21" lower="126">
+  <page_status ValidFlyLayout="false" ValidFlyContent="false" ValidFlyInCnt="false" ValidLayout="false" ValidContent="false"/>
+  <page_info phyNum="5" virtNum="5" pageDesc="Default Page Style"/>
+  <infos>
+   <bounds left="7047" top="68772" width="11906" height="16838" bottom="85609" right="18952" mbFixSize="true" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="true" mbFramePrintAreaValid="true"/>
+   <prtBounds left="1134" top="1134" width="9638" height="14570" bottom="15703" right="10771"/>
+  </infos>
+  <body ptr="0x5650f0585430" id="126" symbol="11SwBodyFrame" upper="125" lower="116">
+   <infos>
+    <bounds left="8181" top="69906" width="9638" height="14570" bottom="84475" right="17818" mbFixSize="true" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="true" mbFramePrintAreaValid="true"/>
+    <prtBounds left="0" top="0" width="9638" height="14570" bottom="14569" right="9637"/>
+   </infos>
+   <txt ptr="0x5650f04e7710" id="116" symbol="11SwTextFrame" next="117" upper="126" txtNodeIndex="100" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="69906" width="9638" height="276" bottom="70181" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="true" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="0" width="9638" height="276" bottom="275" right="9637"/>
+    </infos>
+    lcd.print(millis()- buzz_time);    <Text nLength="35" nType="PortionType::Para" nHeight="276" nWidth="3119" Portion="    lcd.print(millis()- buzz_time);"/>
+    <LineBreak nWidth="3119" Line="    lcd.print(millis()- buzz_time);"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5650f0441690" id="117" symbol="11SwTextFrame" next="118" prev="116" upper="126" txtNodeIndex="101" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="70182" width="9638" height="457" bottom="70638" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="true" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+    pressed=true;    <Text nLength="17" nType="PortionType::Para" nHeight="276" nWidth="1535" Portion="    pressed=true;"/>
+    <LineBreak nWidth="1535" Line="    pressed=true;"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5650efb70960" id="118" symbol="11SwTextFrame" next="120" prev="117" upper="126" txtNodeIndex="102" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="70639" width="9638" height="457" bottom="71095" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="true" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+  }    <Text nLength="3" nType="PortionType::Para" nHeight="276" nWidth="235" Portion="  }"/>
+    <LineBreak nWidth="235" Line="  }"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5650ef795d50" id="120" symbol="11SwTextFrame" next="119" prev="118" upper="126" txtNodeIndex="103" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="71096" width="9638" height="457" bottom="71552" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="true" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5650f05138a0" id="119" symbol="11SwTextFrame" prev="120" upper="126" txtNodeIndex="104" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="71553" width="9638" height="457" bottom="72009" right="17818" mbFixSize="false" mbFrameAreaPositionValid="true" mbFrameAreaSizeValid="true" mbFramePrintAreaValid="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276" bottom="456" right="9637"/>
+    </infos>
+}    <Text nLength="1" nType="PortionType::Para" nHeight="276" nWidth="115" Portion="}"/>
+    <LineBreak nWidth="115" Line="}"/>
+    <Finish/>
+   </txt>
+  </body>
+ </page>
+</root>
